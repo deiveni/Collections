@@ -63,5 +63,4 @@ elif(n==19):
   print("converted into immutable sequence of elements:",tuple(t3))
 else:
   print("Invalid number")
-        
-        
+       
